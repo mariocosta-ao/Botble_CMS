@@ -89,10 +89,7 @@
     "config": {
         "preferred-install": "dist",
         "sort-packages": true,
-        "optimize-autoloader": true,
-        "allow-plugins": {
-            "wikimedia/composer-merge-plugin": true
-        }
+        "optimize-autoloader": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
